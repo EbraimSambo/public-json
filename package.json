@@ -1,0 +1,15 @@
+{
+    "name": "public-json",
+    "version": "1.0.0",
+    "description": "Removes all spaces from a string",
+    "license": "MIT",
+    "repository": "ebraimSambo/public-json",
+    "main": "./dist/index.js",
+    "keywords": [
+      "array",
+      "fetch",
+      "data",
+      "fake",
+      "json"
+    ]
+}
