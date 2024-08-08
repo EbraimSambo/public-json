@@ -1,1 +1,1 @@
-[![npm (scoped)]]
+#PUBLICC JSON
