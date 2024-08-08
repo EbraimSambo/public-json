@@ -8,8 +8,7 @@
     "main": "dist/index.js",
     "scripts": {
         "build": "tsc --declaration",
-        "dev": "nodemon --watch \"src//\" --exec \"ts-node src/sample.ts\" -e ts",
-        "postinstall": "node scripts/postinstall.js"
+        "dev": "nodemon --watch \"src//\" --exec \"ts-node src/sample.ts\" -e ts"
     },
     "keywords": [
         "array",
