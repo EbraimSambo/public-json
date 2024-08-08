@@ -4,12 +4,22 @@
     "description": "Removes all spaces from a string",
     "license": "MIT",
     "repository": "ebraimSambo/public-json",
-    "main": "./dist/index.js",
+    "types": "dist/index.d.js",
+    "scripts": {
+        "build": "tsc --declaration",
+        "dev": "nodemon --watch \"src//\" --exec \"ts-node src/sample.ts\" -e ts"
+    },
     "keywords": [
-      "array",
-      "fetch",
-      "data",
-      "fake",
-      "json"
-    ]
+        "array",
+        "fetch",
+        "data",
+        "fake",
+        "json"
+    ],
+    "devDependencies": {
+        "@types/node": "^22.1.0",
+        "nodemon": "^3.1.4",
+        "ts-node": "^10.9.2",
+        "typescript": "^5.5.4"
+    }
 }

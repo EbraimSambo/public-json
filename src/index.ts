@@ -1,13 +1,6 @@
-export const getData =(url: string)=>{
+import { test } from "./constants";
 
-    return[
-        {
-            name:"  Ebraim Sambo"
-        },
-        {
-            name:"  Ebraim Sambo"
-        }
-    ]
-}
 
-console.log(getData("samb"))
+
+
+console.log(test(true))

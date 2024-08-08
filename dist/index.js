@@ -1,15 +1,4 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-exports.getData = void 0;
-const getData = (url) => {
-    return [
-        {
-            name: "  Ebraim Sambo"
-        },
-        {
-            name: "  Ebraim Sambo"
-        }
-    ];
-};
-exports.getData = getData;
-console.log((0, exports.getData)("samb"));
+const constants_1 = require("./constants");
+console.log((0, constants_1.test)(true));
