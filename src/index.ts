@@ -1,6 +1,6 @@
-import { test } from "./constants";
+import * as channel from './constants/index'
 
 
 
 
-console.log(test(true))
+console.log(channel.test(false))
