@@ -1,2 +1,1 @@
-# public-json
-My packege test
+[![npm (scoped)]]
