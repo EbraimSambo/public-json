@@ -1,1 +1,4 @@
-export { fake, test } from './constants/constants.js';
+declare const fake: boolean;
+declare const test: (variable: boolean) => boolean;
+
+export { fake, test };

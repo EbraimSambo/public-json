@@ -7,7 +7,7 @@
     "types": "dist/**/*.ts",
     "main": "dist/index.js",
     "scripts": {
-        "build": "tsup src/**/*.ts --format cjs,esm --dts",
+        "build": "tsup",
         "dev": "tsup-node src/index.ts"
     },
     "keywords": [

@@ -1,8 +1,8 @@
-import "./chunk-7XOGFW55.mjs";
-import {
-  fake,
-  test
-} from "./chunk-GUW7HOZA.mjs";
+// src/constants/constants.ts
+var fake = true;
+var test = (variable) => {
+  return variable;
+};
 export {
   fake,
   test
