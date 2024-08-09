@@ -1,0 +1,1 @@
+{"version":3,"sources":["../src/constants/constants.ts"],"sourcesContent":["export const fake:boolean = true\r\n\r\nexport const test = (variable: boolean)=>{\r\n    return variable\r\n}"],"mappings":"AAAO,IAAMA,EAAe,GAEfC,EAAQC,GACVA","names":["fake","test","variable"]}

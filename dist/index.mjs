@@ -1,9 +1,2 @@
-// src/constants/constants.ts
-var fake = true;
-var test = (variable) => {
-  return variable;
-};
-export {
-  fake,
-  test
-};
+var e=!0,t=o=>o;export{e as fake,t as test};
+//# sourceMappingURL=index.mjs.map
