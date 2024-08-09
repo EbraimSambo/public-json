@@ -6,9 +6,9 @@
     <a href="https://www.npmjs.com/package/commandkit"><img src="https://img.shields.io/npm/dt/commandkit?maxAge=3600" alt="npm downloads" /></a>
 </div>
 
-# CommandKit
+# PUBLIC JSON
 
-CommandKit is a library that makes it easy to handle commands and events in your Discord.js projects.
+PUBLIC JSON is a library that makes it easy to handle commands and events in your Discord.js projects.
 
 > **Supports Discord.js version 14**
 
@@ -35,19 +35,19 @@ To install CommandKit, simply run the following command:
 For npm:
 
 ```bash
-npm install commandkit
+npm install public-json
 ```
 
 Yarn:
 
 ```bash
-yarn add commandkit
+yarn add public-json
 ```
 
 pnpm:
 
 ```bash
-pnpm add commandkit
+pnpm add public-json
 ```
 
 ### Install development version
@@ -55,7 +55,7 @@ pnpm add commandkit
 To install the development version of CommandKit, run the following command:
 
 ```bash
-npm install commandkit@dev
+npm install public-json
 ```
 
 > ⚠️ The development version is likely to have bugs.

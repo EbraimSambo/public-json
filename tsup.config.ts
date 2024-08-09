@@ -8,5 +8,9 @@ export default defineConfig({
   minify: true,
   sourcemap: true,
   dts: true,
-  })
-  
+  target: 'es2020',
+  bundle: true,
+  external: ['react', 'react-dom'],
+  platform: 'browser',
+  shims: true
+})
