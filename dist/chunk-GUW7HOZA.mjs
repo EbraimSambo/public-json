@@ -1,5 +1,5 @@
-// src/constants/index.ts
-var fake = false;
+// src/constants/constants.ts
+var fake = true;
 var test = (variable) => {
   return variable;
 };

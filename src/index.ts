@@ -1,6 +1,5 @@
-import * as channel from './constants/index'
+export * from './constants/index'
 
 
 
 
-console.log(channel.test(false))

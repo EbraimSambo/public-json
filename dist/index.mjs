@@ -1,6 +1,9 @@
+import "./chunk-7XOGFW55.mjs";
 import {
+  fake,
   test
-} from "./chunk-TYS2M4FP.mjs";
-
-// src/index.ts
-console.log(test(false));
+} from "./chunk-GUW7HOZA.mjs";
+export {
+  fake,
+  test
+};

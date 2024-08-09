@@ -17,15 +17,13 @@ var __copyProps = (to, from, except, desc) => {
 };
 var __toCommonJS = (mod) => __copyProps(__defProp({}, "__esModule", { value: true }), mod);
 
-// src/constants/index.ts
+// src/constants/constants.ts
 var constants_exports = {};
 __export(constants_exports, {
   fake: () => fake,
   test: () => test
 });
 module.exports = __toCommonJS(constants_exports);
-
-// src/constants/constants.ts
 var fake = true;
 var test = (variable) => {
   return variable;
